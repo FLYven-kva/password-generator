@@ -20,7 +20,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/password-generator.git
+git clone https://github.com/FLYven-kva/password-generator.git
 cd password-generator
 ```
 
