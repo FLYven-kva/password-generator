@@ -1,0 +1,7 @@
+matplotlib>=3.7.0
+cryptography>=41.0.0
+secrets>=1.0.0
+string>=1.0.0
+re>=2.2.1
+logging>=0.5.1.2
+tkinter>=8.6
